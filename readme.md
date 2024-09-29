@@ -34,13 +34,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanahtas)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding AI and Its Impact on Society](#)
-- [How to Get Started with Python for AI](#)
-- [Exploring the Future of Voice-Based Technologies](#)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
