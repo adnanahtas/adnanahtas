@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- AI and ML projects that solve real-world issues is what i am most interested to work on!
+- AI and ML projects that solve real-world issues is what I am most interested to work on!
 - 🔭 I’m currently working on:
   - An AI-based Room and Meeting Scheduler for offices around the world.
   - An AI-powered Budgeting App.
@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanahtas)
-
 
 ---
 
