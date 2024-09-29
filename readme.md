@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
+- AI and ML projects that solve real-world issues is what i am most interested to work on!
 - 🔭 I’m currently working on:
   - An AI-based Room and Meeting Scheduler for offices around the world.
   - An AI-powered Budgeting App.
@@ -11,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning more about machine learning and AI models.
 - 👯 I’m looking to collaborate on open-source projects related to AI and machine learning.
 - 💬 Ask me about Python, AI, and voice-based applications.
-- 📫 How to reach me: [adnan@gmail.com](mailto:adnan@gmail.com)
+- 📫 How to reach me: [adnanahtas@gmail.com](mailto:adnanahtas@gmail.com)
 - ⚡ Fun fact: I love exploring new tech gadgets and playing chess.
 
 ## 🛠️ Technologies & Tools
